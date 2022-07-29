@@ -9,12 +9,12 @@ Project to study and apply some tests
 
 ## Techonogy
 
+
+```python
+
 Technologies:
 • .NET Core
 • Docker
-<!--
-• RabbitMQ
--->
 
 Languages:
 • C#
